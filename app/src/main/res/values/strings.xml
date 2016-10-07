@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proximity Sensing Clap App</string>
+    <string name="capital_play">PLAY</string>
+    <string name="capital_stop">STOP</string>
+</resources>
